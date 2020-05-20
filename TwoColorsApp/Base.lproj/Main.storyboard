@@ -27,7 +27,6 @@
                         <color key="backgroundColor" systemColor="secondarySystemBackgroundColor" red="0.94901960780000005" green="0.94901960780000005" blue="0.96862745100000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="0ia-G6-8gf" firstAttribute="height" secondItem="JYq-pk-6Qn" secondAttribute="height" multiplier="0.980519" id="3xK-Jk-a9C"/>
-                            <constraint firstItem="0ia-G6-8gf" firstAttribute="width" secondItem="JYq-pk-6Qn" secondAttribute="width" id="BVt-2y-BQb"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="0ia-G6-8gf" secondAttribute="bottom" constant="20" id="HOP-Gz-6xb"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="JYq-pk-6Qn" secondAttribute="trailing" constant="20" id="Hhp-h6-E8w"/>
                             <constraint firstItem="0ia-G6-8gf" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="IBe-Wy-YKp"/>
